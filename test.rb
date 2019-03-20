@@ -1,3 +1,4 @@
+# test
 require 'ostruct'
 
 class Deployment
